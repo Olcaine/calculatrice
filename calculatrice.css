@@ -1,12 +1,13 @@
-td
-{
-    border: 1px solid black;
-}
-
-.ecran th
+thead
 {
     background-color: grey;
     border: 1px solid black;
-    width: 50%;
+    width: 20%;
+    height: 20%;
+}
+td
+{
+    border: 1px solid black;
+    width: 10px;
     height: 10px;
 }
